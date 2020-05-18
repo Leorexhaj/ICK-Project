@@ -1,0 +1,23 @@
+# ICK-Project
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+
+## General info
+This is a simple project, built in ICK training about Web Design.
+
+## Technologies
+Project is created with:
+* HTML5
+* CSS3
+* Bootstrap 4
+* Javascript
+* Jquery
+
+## Setup
+To run this project, downlaod the folder project or open the below link:
+* https://f1shqip.000webhostapp.com/
+
