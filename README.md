@@ -7,7 +7,7 @@
 
 
 ## General info
-This is a simple project, built in ICK training about Web Design.
+This is a website project, built in ICK training about Web Design.
 
 ## Technologies
 Project is created with:
