@@ -19,5 +19,5 @@ Project is created with:
 
 ## Setup
 To run this project, downlaod the folder project or open the below link:
-* https://f1shqip.000webhostapp.com/
+* https://alformula1.000webhostapp.com/
 
